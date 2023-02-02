@@ -19,4 +19,7 @@ nose_choice = random.choices(noses)
 
 <https://docs.python.org/3/library/random.html#functions-for-sequences>
 
-[`random.choice()`](https://docs.python.org/3/library/random.html#functions-for-sequences)
+[`random.choice()` ](https://docs.python.org/3/library/random.html#functions-for-sequences)
+
+
+Get-Help <cmdlet-name> -Online
