@@ -14,7 +14,7 @@ Sending stuff to github:
 1. check remote repository
     * `git remote`
     * `git remote -h` for help
-1. `git status`
+1. `git status` 
 1. `git add <file>` 
 1. or `git add <directory>`
 1. or `git add -A`
