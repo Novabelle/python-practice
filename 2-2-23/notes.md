@@ -10,9 +10,14 @@ PS C:\Users\SethHanslik\Programming\python-practice>
 How do you run a python function?: python <file>
 
 Sending stuff to github: 
+1. start in the root of the repository
+1. check remote repository
+    * `git remote`
+    * `git remote -h` for help
 1. `git status`
 1. `git add <file>` 
 1. or `git add <directory>`
+1. or `git add -A`
 1. `git status`
 1. `git commit -m "what you did"`
 1. `git push`
