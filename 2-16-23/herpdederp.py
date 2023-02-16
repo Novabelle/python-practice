@@ -54,9 +54,9 @@ def herpdederp_result(number):
 # print(18, herpdederp_result(18))
 
 
-
-for i in range(35):
-    print(i, herpdederp_result(i))
+if __name__ == "__main__":
+    for i in range(35):
+        print(i, herpdederp_result(i))
 # This is a "for loop"
 
 # To run the test:
