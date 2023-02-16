@@ -30,11 +30,11 @@ def herpdederp_result(number):
     """
     # If numbe is evenly divisable by 3
     if number % 3 == 0 and number % 5 == 0:
-        return "HerpDeDerp"
+        return "HerpDeDerpp"
     elif number % 3 == 0: 
-        return "Herp"
+        return "Herpp"
     elif number % 5 == 0:
-        return "Derp"
+        return "Derpp"
     else:
         return number
     # return "everything else"
