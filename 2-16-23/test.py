@@ -1,2 +1,0 @@
-txt = "**\n**"
-print(txt) 
