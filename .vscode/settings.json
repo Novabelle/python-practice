@@ -1,6 +1,6 @@
 {
     "python.testing.pytestArgs": [
-        "2-23-23"
+        "3-23-23"
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true
