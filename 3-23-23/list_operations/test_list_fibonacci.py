@@ -13,4 +13,3 @@ def test_fibonacci():
     assert fibonacci(9) == 34
     assert fibonacci(10) == 55
 
-
